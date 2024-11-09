@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\if loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\if loop.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\if loop.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\if loop.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\bin\Debug\net8.0\if loop.exe
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\bin\Debug\net8.0\if loop.deps.json
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\bin\Debug\net8.0\if loop.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\bin\Debug\net8.0\if loop.dll
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\bin\Debug\net8.0\if loop.pdb
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\if loop.dll
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\refint\if loop.dll
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\if loop.pdb
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\if loop.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!%\c#\if loop\obj\Debug\net8.0\ref\if loop.dll
